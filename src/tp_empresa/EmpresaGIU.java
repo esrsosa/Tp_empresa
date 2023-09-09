@@ -16,6 +16,8 @@ public class EmpresaGIU extends javax.swing.JInternalFrame {
      */
     public EmpresaGIU() {
         initComponents();
+        
+        
     }
 
     /**
